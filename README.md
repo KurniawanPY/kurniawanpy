@@ -22,6 +22,22 @@
    - Research on Maintenance trouble at client and server
 ---
 
+## Experience:
+
+   - Understand Network
+   - Understand Mikrotik
+   - Understand Microsoft Office
+   - Active Indo language and Passive English
+   - able to work in a team
+   - Have interpersonal skills
+   - Have sims A and C
+
+## Kontak
+
+   - Email  : kenta.wasito@gmail.com
+   - Telp  : 0812-3121-5736
+   - Alamat : Karangpilang, Kota Surabaya
+
 <br />
 <br />
 
