@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Kurniawan 
+## About me:
+- 🔭 I’m used to be a network worker at an ISP in Surabaya. I have experience teaching apprentices, and I'm currently looking for a job that fits my field.
+- 📫 How to reach me: kenta.wasito@gmail.com
 
-<!--
-**KurniawanPY/kurniawanpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education:
 
-Here are some ideas to get you started:
+#### 1. [SMK AL-Azhar Menganti]| Teknik Komputer & Jaringan )TKJ | Gresik `2010-2013`
+   - OSIS
+   - Asistant Laboratorium
+#### 2. [SMPN 1 Cerme]| Gresik `2007-2010`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Work Experience:
+#### 1. [PT Smartfren Telecom Tbk](https://www.smartfren.com/) | Technician | Denpasar `Apr'2022 - Apr'2023`
+   - Maintenance and troubleshooting tower
+   - Responsible to improve and realize project delivery as timeline
+   - ensure the connection is stable
+#### 2. [PT Crossnetwork Indonesia ](https://cross.net.id/) | Costumer service & IT Support | Surabaya `Nov'2016 - Jan'2021`
+   - Manage to update or backup system
+   - Manage to recap fault in distribution network
+   - Research on Maintenance trouble at client and server
+---
+
+<br />
+<br />
+
+---
+
+
